@@ -64,6 +64,13 @@ const naoufal = {
 
 ## 🔥 Projets Récents
 
+### 🔐 PassDiali - Générateur de Mots de Passe Sécurisé
+Générateur de mots de passe puissant et 100% privé, disponible en version web et CLI. Génération locale (client-side) utilisant l'API Web Crypto pour une sécurité maximale. Aucune donnée ne quitte votre appareil.
+- **Version Web:** [passdiali.connectapps.org](https://passdiali.connectapps.org)
+- **Version CLI:** [GitHub Repository](https://github.com/naoufalnajim01/PassDiali-CLI)
+- **Tech Stack:** HTML5, CSS3, JavaScript (Web Crypto API), PowerShell (CLI)
+- **Fonctionnalités:** Génération de mots de passe, phrases secrètes, codes PIN, cryptage, historique local, calcul d'entropie, 100% offline
+
 ### 🚨 SOS IT - Support d'Urgence en Classe
 Application web dédiée à la gestion rapide des demandes d'intervention technique urgentes en classe. Interface simple avec bouton SOS pour enseignants, tableau de bord temps réel avec alertes sonores/visuelles, assignation automatique des techniciens et intégration GLPI pour traçabilité complète.
 - **Tech Stack:** PHP, Laravel, MySQL, JavaScript

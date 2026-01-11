@@ -17,12 +17,17 @@
 ```javascript
 const naoufal = {
     role: ["Administrateur Réseau & Système", "Expert Sécurité", "Développeur Full Stack"],
-    location: "Morocco 🇲🇦",
+    location: "Morocco",  // 🇲🇦
     currentFocus: "Cybersécurité & Développement Web",
     hobbies: ["Coding", "Sécurité Informatique", "Cloud Computing", "DevOps"],
     askMeAbout: ["Sécurité Réseau", "Administration Système", "Développement Web", "Laravel", "Node.js"]
 };
 ```
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=48&id=22436&format=png&color=000000" alt="Morocco Flag" width="32" height="32"/>
+  <strong>Based in Morocco</strong>
+</p>
 
 ---
 
@@ -63,6 +68,13 @@ const naoufal = {
 ---
 
 ## 🔥 Projets Récents
+
+### ⏱️ Chrono EPS Pro+ - Application de Chronométrage Professionnelle
+Application web moderne pour professeurs EPS avec chronomètre, intervalle HIIT/Tabata, Pomodoro et minuteur personnalisé. Interface élégante avec mode sombre, plein écran, raccourcis clavier et feedback audio. Design system moderne avec variables CSS et accessibilité ARIA complète.
+- **GitHub Repository:** [chronopro](https://github.com/naoufalnajim01/chronopro) ⭐
+- **Demo Live:** [chronopro.connectapps.org](https://chronopro.connectapps.org)
+- **Tech Stack:** HTML5, CSS3, JavaScript (Vanilla), Web Audio API
+- **Fonctionnalités:** 5 modes de chronométrage, statistiques temps réel, préréglages sauvegardables, responsive design, mode plein écran, raccourcis clavier
 
 ### 🎬 LocalDiapo - Gestion de Diaporamas Multimédias
 Application web moderne et élégante pour créer, gérer et diffuser des diaporamas multimédias en local. Interface intuitive avec drag & drop, lecture automatique en boucle et authentification sécurisée. Idéale pour présentations, affichages dynamiques et diffusion continue de contenus visuels.

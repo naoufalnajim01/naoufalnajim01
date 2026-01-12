@@ -69,6 +69,13 @@ const naoufal = {
 
 ## 🔥 Projets Récents
 
+### 🎨 QRCode Generator Plus - Générateur de QR Codes Moderne
+Générateur et scanner de QR codes professionnel avec personnalisation avancée. Interface élégante avec mode sombre, templates prédéfinis (URL, Email, SMS, WiFi, vCard), export multi-format et FAQ intégrée. Génération 100% locale pour une confidentialité maximale.
+- **GitHub Repository:** [QRCode-Generator-Plus](https://github.com/naoufalnajim01/QRCode-Generator-Plus) ⭐
+- **Demo Live:** [qrcode.connectapps.org](https://qrcode.connectapps.org)
+- **Tech Stack:** HTML5, CSS3, JavaScript (Vanilla), QR Code Styling API, jsQR
+- **Fonctionnalités:** Personnalisation complète, scanner intégré, templates prédéfinis, export PNG/JPG/SVG, mode sombre/clair, responsive design, 100% client-side
+
 ### ⏱️ Chrono EPS Pro+ - Application de Chronométrage Professionnelle
 Application web moderne pour professeurs EPS avec chronomètre, intervalle HIIT/Tabata, Pomodoro et minuteur personnalisé. Interface élégante avec mode sombre, plein écran, raccourcis clavier et feedback audio. Design system moderne avec variables CSS et accessibilité ARIA complète.
 - **GitHub Repository:** [chronopro](https://github.com/naoufalnajim01/chronopro) ⭐

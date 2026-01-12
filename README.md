@@ -42,6 +42,7 @@ const naoufal = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### 🔒 Sécurité & Administration
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,6 +69,12 @@ const naoufal = {
 ---
 
 ## 🔥 Projets Récents
+
+### 🎨 Gesture Particles - Miroir de Particules 3D en Temps Réel
+Visualisation 3D immersive qui reconstruit votre visage et vos mains avec des milliers de particules lumineuses. Utilise MediaPipe pour le suivi webcam et Three.js pour le rendu GPU haute performance. Particules UHD (4x densité) avec dégradés de couleurs (visage: rose/rouge/orange, mains: cyan/bleu/vert), effets shader organiques et interpolation fluide à 60fps.
+- **GitHub Repository:** [gesture-particles](https://github.com/naoufalnajim01/gesture-particles) ⭐
+- **Tech Stack:** Three.js, MediaPipe (Face Mesh + Hands), WebGL Shaders, Vite
+- **Fonctionnalités:** 468 points faciaux + 42 points mains, rendu UHD 4x, shaders personnalisés, LERP smoothing, particules additives avec glow, 100% temps réel
 
 ### ⚔️ Neural Blade Stream - Contrôle Gestuel d'Épées Volantes
 Expérience web immersive en temps réel où vous contrôlez 800 épées volantes avec vos mains ! Utilise la webcam et l'IA pour détecter vos gestes et les transformer en formations d'épées spectaculaires. Effets visuels époustouflants avec bloom, particules dorées et animations fluides à 60fps.
@@ -150,6 +157,7 @@ Plateforme complète de gestion d'établissement scolaire centralisant la gestio
 - ☁️ Architecture Cloud (AWS, Azure)
 - 🐳 Kubernetes & Orchestration de conteneurs
 - 🤖 DevOps & CI/CD Pipelines
+- 🎨 WebGL & Three.js pour visualisations 3D interactives
 
 ---
 

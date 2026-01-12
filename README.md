@@ -78,7 +78,7 @@ Application web moderne pour professeurs EPS avec chronomètre, intervalle HIIT/
 
 ### 🎬 LocalDiapo - Gestion de Diaporamas Multimédias
 Application web moderne et élégante pour créer, gérer et diffuser des diaporamas multimédias en local. Interface intuitive avec drag & drop, lecture automatique en boucle et authentification sécurisée. Idéale pour présentations, affichages dynamiques et diffusion continue de contenus visuels.
-- **GitHub Repository:** [LocalDiapo](https://github.com/naoufalnajim01/LocalDiapo)
+- **GitHub Repository:** [LocalDiapo](https://github.com/naoufalnajim01/LocalDiapo) ⭐
 - **Tech Stack:** PHP, JavaScript, HTML5, CSS3
 - **Fonctionnalités:** Upload drag & drop, support images/vidéos, durée personnalisable, gestion complète des médias, authentification CSRF, design responsive
 

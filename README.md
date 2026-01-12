@@ -69,6 +69,12 @@ const naoufal = {
 
 ## 🔥 Projets Récents
 
+### ⚔️ Neural Blade Stream - Contrôle Gestuel d'Épées Volantes
+Expérience web immersive en temps réel où vous contrôlez 800 épées volantes avec vos mains ! Utilise la webcam et l'IA pour détecter vos gestes et les transformer en formations d'épées spectaculaires. Effets visuels époustouflants avec bloom, particules dorées et animations fluides à 60fps.
+- **GitHub Repository:** [gesture-sword-controller](https://github.com/naoufalnajim01/gesture-sword-controller) ⭐
+- **Tech Stack:** Three.js, MediaPipe Hands, WebGL, JavaScript ES6+, Web Audio API
+- **Fonctionnalités:** Détection de 6 gestes différents (poing, main ouverte, pointage, peace, thumbs up), 800+ épées avec rendu GPU instancié, effets bloom et glow, formation de texte personnalisé, sons synthétisés, panneau de contrôle GUI
+
 ### 🎨 QRCode Generator Plus - Générateur de QR Codes Moderne
 Générateur et scanner de QR codes professionnel avec personnalisation avancée. Interface élégante avec mode sombre, templates prédéfinis (URL, Email, SMS, WiFi, vCard), export multi-format et FAQ intégrée. Génération 100% locale pour une confidentialité maximale.
 - **GitHub Repository:** [QRCode-Generator-Plus](https://github.com/naoufalnajim01/QRCode-Generator-Plus) ⭐

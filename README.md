@@ -70,6 +70,18 @@ const naoufal = {
 
 ## 🔥 Projets Récents
 
+### 📖 Quran App - Plateforme Coranique Moderne | تطبيق القرآن الكريم
+Application web complète dédiée à l'étude et l'écoute du Saint Coran. Interface moderne et épurée offrant une expérience utilisateur fluide avec lecture audio synchronisée, tafsirs multiples et recherche avancée.
+تطبيق ويب متكامل لقراءة واستماع ودراسة القرآن الكريم. واجهة عصرية وسلسة توفر تجربة مستخدم مميزة مع تلاوات متزامنة، تفاسير متعددة، وبحث متقدم.
+- **GitHub Repository:** [quran-app](https://github.com/naoufalnajim01/quran-app) ⭐
+- **Demo Live:** [quran.connectapps.org](https://quran.connectapps.org)
+- **Tech Stack:** Vue.js 3, Pinia, Tailwind CSS, Lumen (PHP), MySQL
+- **Fonctionnalités | المميزات:**
+  - 📖 **Lecture & Étude | القراءة والدراسة:** Texte Uthmani, 5+ traductions, 7 tafsirs (Ibn Kathir, Al-Tabari...), recherche instantanée (نص عثماني، ترجمات، ٧ تفاسير، بحث فوري)
+  - 🎧 **Audio Avancé | تلاوات خاشعة:** 10+ récitateurs (Alafasy, Sudais...), lecture continue, synchronisation verset par verset (١٠+ قراء، تلاوة مستمرة، تزام مع الآيات)
+  - 🕌 **Outils Islamiques | أدوات إسلامية:** Horaires de prière géo-localisés, Boussole Qibla, Asma Ul Husna, Tasbih (مواقيت الصلاة، اتجاه القبلة، أسماء الله الحسنى، مسبحة)
+  - 🎨 **UX/UI:** Mode sombre/clair, design responsive, typographie arabe optimisée (وضع ليلي/نهاري، تصميم متجاوب، خطوط عربية محسنة)
+    
 ### 🎨 Gesture Particles - Miroir de Particules 3D en Temps Réel
 Visualisation 3D immersive qui reconstruit votre visage et vos mains avec des milliers de particules lumineuses. Utilise MediaPipe pour le suivi webcam et Three.js pour le rendu GPU haute performance. Particules UHD (4x densité) avec dégradés de couleurs (visage: rose/rouge/orange, mains: cyan/bleu/vert), effets shader organiques et interpolation fluide à 60fps.
 - **GitHub Repository:** [gesture-particles](https://github.com/naoufalnajim01/gesture-particles) ⭐

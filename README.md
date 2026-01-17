@@ -77,9 +77,6 @@ Expérience web 3D immersive célébrant l'équipe nationale du Maroc pour la CA
 - **Demo Live:** [naoufalnajim01.github.io/Morocco-Squad-3D](https://naoufalnajim01.github.io/Morocco-Squad-3D/)
 - **Tech Stack:** HTML5, CSS3 (3D Transforms), Vanilla JavaScript
 - **Fonctionnalités:** Carrousel 3D rotatif, Mode Sombre/Clair intelligent, Design Glassmorphism, 100% Responsive, Support tactile mobile
-- **Preview:**
-  > [!NOTE]
-  > *Insérez votre vidéo demo.mp4 ici par glisser-déposer dans l'éditeur GitHub*
 
 ### 🎂 Calculateur d'Âge - Précision & Statistiques de Vie
 Application web moderne, précise et respectueuse de la vie privée pour calculer l'âge exact et découvrir des statistiques de vie (saison de naissance, temps vécu en semaines/heures). Interface épurée "Human-First" sans publicité.

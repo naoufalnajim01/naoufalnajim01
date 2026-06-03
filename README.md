@@ -70,6 +70,16 @@ const naoufal = {
 
 ## 🔥 Projets Récents
 
+### 🤖 MLF IA Assistant - Assistant Éducatif Intelligent Souverain 🇫🇷
+Assistant de chat intelligent (type ChatGPT-like) conçu sur mesure pour les établissements scolaires et personnels du réseau de la Mission Laïque Française (MlfMonde). Intégration RAG sur les référentiels officiels, conformité éthique & RGPD par design (historique opt-in, suppression après 7 jours), et monitoring de l'empreinte carbone ($CO_2$) et des tokens en temps réel.
+- **GitHub Repository:** [Mlf-IA](https://github.com/naoufalnajim01/Mlf-IA) ⭐
+- **Tech Stack:** Next.js 16 (React 19), TypeScript, Tailwind CSS 4, Drizzle ORM, PostgreSQL, Mistral AI API, Upstash Redis, Vitest
+- **Fonctionnalités:**
+  - 🔒 **SSO & Whitelist** : Authentification Google Workspace restreinte à la liste des participants autorisés du pilote.
+  - 💬 **Interface Chat Premium** : Streaming, édition de messages, bouton continuer, export PDF structuré/Markdown.
+  - 📚 **RAG Institutionnel** : Recherche sémantique temps réel dans les référentiels avec citation des sources et score de pertinence.
+  - 🚦 **Dashboard Admin** : Monitoring de l'état des services, coûts d'API et indicateur d'empreinte carbone.
+
 ### ⚽ Morocco Squad 3D - Galerie Interactive Lions de l'Atlas 🇲🇦
 Expérience web 3D immersive célébrant l'équipe nationale du Maroc pour la CAN 2025. Carrousel interactif avec effets glassmorphism, mode sombre/clair automatique et animations fluides à 60fps.
 معرض ثلاثي الأبعاد تفاعلي يحتفي بأسود الأطلس. تصميم عصري مع تأثيرات بصرية جذابة وتجربة مستخدم سلسة.

@@ -80,6 +80,24 @@ Assistant de chat intelligent (type ChatGPT-like) conçu sur mesure pour les ét
   - 📚 **RAG Institutionnel** : Recherche sémantique temps réel dans les référentiels avec citation des sources et score de pertinence.
   - 🚦 **Dashboard Admin** : Monitoring de l'état des services, coûts d'API et indicateur d'empreinte carbone.
 
+### 👶 MonPetit - Plateforme Maternelle Réseau MlfMonde 🇫🇷
+Plateforme éducative dédiée aux classes de maternelle du réseau MlfMonde. Solution multi-tenant permettant le suivi pédagogique individualisé, le carnet de réussite numérique interactif et la communication sécurisée avec les familles.
+- **GitHub Repository:** [monpetit](https://github.com/naoufalnajim01/monpetit) (Privé) 🔒
+- **Tech Stack:** Next.js 16 (React 19), TypeScript, Tailwind CSS, PostgreSQL, Drizzle ORM
+- **Fonctionnalités:** Multi-tenant, carnets de réussite numériques exportables, espace parents sécurisé, interface intuitive adaptée aux enseignants du premier degré.
+
+### 🌱 carboneOS - Plateforme SaaS de Comptabilité Carbone 🇫🇷
+Solution SaaS complète et automatisée de calcul de bilan carbone d'organisation (conforme Bilan Carbone® V9.2, GHG Protocol, ISO 14064, CSRD).
+- **GitHub Repository:** [carboneOS](https://github.com/naoufalnajim01/carboneOS) (Privé) 🔒
+- **Tech Stack:** Next.js 16 (React 19), TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL
+- **Fonctionnalités:** Architecture multi-tenant, internationalisation complète (FR/EN/AR), base de données de facteurs d'émission ADEME (France) et spécifiques Maroc, rapports analytiques interactifs.
+
+### 🔥 jorfgaz - Système Logistique Multi-sites de Distribution de Gaz 🇲🇦
+Application métier de gestion et de pilotage logistique pour la distribution de gaz multi-sites. Centralisation des ventes, du suivi des tournées et de la facturation.
+- **GitHub Repository:** [jorfgaz](https://github.com/naoufalnajim01/jorfgaz) (Privé) 🔒
+- **Tech Stack:** PHP (Laravel 12), Blade, MySQL, JavaScript
+- **Fonctionnalités:** Suivi des situations journalières, gestion de flottes de livreurs, fiches clients interactives, gestion des stocks en temps réel, suivi des encaissements et des soldes.
+
 ### ⚽ Morocco Squad 3D - Galerie Interactive Lions de l'Atlas 🇲🇦
 Expérience web 3D immersive célébrant l'équipe nationale du Maroc pour la CAN 2025. Carrousel interactif avec effets glassmorphism, mode sombre/clair automatique et animations fluides à 60fps.
 معرض ثلاثي الأبعاد تفاعلي يحتفي بأسود الأطلس. تصميم عصري مع تأثيرات بصرية جذابة وتجربة مستخدم سلسة.
